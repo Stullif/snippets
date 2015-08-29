@@ -1,0 +1,14 @@
+Hópur: Einstaklingur
+* "Nafn", texta reitur
+* "Netfang", email reitur
+* "Kyn", radio reitur, gildi: Kona, karl eða annað
+
+Hópur: Heimilisfang
+* "Gata", texta reitur
+* "Bær", texta reitur
+* "Tegund", select reitur, gildi: Fjölbýli, Tvíbýli, Einbýli
+
+Hópur: Samskipti
+* "Dagur til að hafa samband", dagsetningar reitur
+* "Má senda bréfpóst", checkbox reitur
+* "Hvað viltu ræða", textareitur
